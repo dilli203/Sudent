@@ -10,6 +10,6 @@ public class Student {
         System.out.println("=======================");
         System.out.println("THANK YOU");
         System.out.println("THANK YOU");
-        System.out.println("THANK YOU ra gutle sir");
+        System.out.println("THANK YOU ra gutle sir naa kodaka");
     }
 }
