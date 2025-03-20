@@ -12,5 +12,6 @@ public class Student {
         System.out.println("THANK YOU");
         System.out.println("THANK YOU ra gutle sir naa kodaka em chestav ra nuvvu boku");
         System.out.println("THANK YOU NAMASTE rA HOWLE");
+        System.out.println("THANK YOU");
     }
 }
